@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "314335941817",
+    "firebase_url": "https://kofinal-e724c.firebaseio.com",
+    "project_id": "kofinal-e724c",
+    "storage_bucket": "kofinal-e724c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314335941817:android:986df68c2caae8e3",
+        "android_client_info": {
+          "package_name": "cf.awidiyadew.drawerexpandablelistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314335941817-8fi39b5jcejrsbqrek3cghov1smtas79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0uqNQGVcUujEPztuLA0hcwjxk0lmkvNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
